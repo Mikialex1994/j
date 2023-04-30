@@ -9,5 +9,7 @@ public class JunitApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(JunitApplication.class, args);
 	}
-
+public void Main() {
+	
+}
 }
